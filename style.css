@@ -1,0 +1,35 @@
+.header_div{
+    font-family: 'Anton', sans-serif;
+    color:rgb(68, 115, 85);
+    background-color: rgb(194, 237, 216);
+}
+.header_div p{
+    font-family: 'Pacifico', cursive;
+    color: black;
+}
+button{
+    margin-top: 15px;
+}
+.main_div{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    background-color: rgb(65, 141, 113);
+}
+.main_div h4{
+    font-family: 'Pacifico', cursive;
+    font-size: 15px;
+}
+h3{
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    color:rgb(79, 118, 100);
+    font-size: 15px;
+    line-height: 5;
+    background-color: rgb(191, 222, 205);
+    text-shadow:5px 5px 5px rgb(30, 54, 45);
+}
